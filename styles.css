@@ -1,0 +1,12 @@
+body {
+	background-color: grey;
+}
+
+body div div ul div img {
+	height: 95px;
+}
+
+body div div ul div div.column {
+	display: inline-block;
+	margin-right: 10px;
+}
